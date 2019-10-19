@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "470178652380",
+    "firebase_url": "https://medmax-7eeb5.firebaseio.com",
+    "project_id": "medmax-7eeb5",
+    "storage_bucket": "medmax-7eeb5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:470178652380:android:336d89ecf9b5e533569419",
+        "android_client_info": {
+          "package_name": "com.example.medmax"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "470178652380-244qrdprruo0eu6k6j5cb6541smgj29t.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB0J_6naAg0CS09U8QUbAHCrF9Z7I1JTzU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "470178652380-244qrdprruo0eu6k6j5cb6541smgj29t.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
