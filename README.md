@@ -1,5 +1,7 @@
 # MedMax
 Members
-Name                Student #
-Jason You           300056239
-Ashair Imran        300071365
+--------------------------------
+Name          |      Student # |
+Jason You     |      300056239 |
+Ashair Imran  |      300071365 |
+--------------------------------
