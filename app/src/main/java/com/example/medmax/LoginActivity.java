@@ -23,6 +23,7 @@ public class LoginActivity extends AppCompatActivity {
     Button btnSignIn;
     TextView tvSignUp;
     FirebaseAuth mFirebaseAuth;
+    String userType;
     private FirebaseAuth.AuthStateListener mAuthStateListener;
 
     @Override
@@ -35,6 +36,7 @@ public class LoginActivity extends AppCompatActivity {
         password = findViewById(R.id.passwordBox);
         btnSignIn = findViewById(R.id.signInBtn);
         tvSignUp = findViewById(R.id.noAccountText);
+
 
         mAuthStateListener = new FirebaseAuth.AuthStateListener() {
 
